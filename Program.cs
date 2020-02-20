@@ -18,6 +18,8 @@ namespace ArrayPrat
             Console.WriteLine(MyPi(5));
             Console.WriteLine(MyPi(4));
             Console.WriteLine(MyPi(15));
+            int[] p = new int[] { 3, 4, 5, 5, 0, 1, 2, 5, 2, 7 };
+            Console.WriteLine(phone(p));
         }
         static string reverse()
         {
@@ -74,6 +76,33 @@ namespace ArrayPrat
             double pi = Math.Round(Math.PI, p1);
             return pi;
         }
+        static string phone(int[] p)
+        {
+            StringBuilder num = new StringBuilder("", 14);
+            for (int i = 0; i < p.Length; i++)
+            {
+                if (i == 0)
+                {
+                    num.Append('(');
+                    num.Append(p[i]);
+                }
+
+                else if (i == 2)
+                {
+                    num.Append(p[i]);
+                    num.Append(") ");
+                }
+                else if (i == 5)
+                {
+                    num.Append(p[i]);
+                    num.Append("-");
+                }
+                else
+                    num.Append(p[i]);
+            }
+            return Convert.ToString(num);
+        }
+         
     }
     
 }
