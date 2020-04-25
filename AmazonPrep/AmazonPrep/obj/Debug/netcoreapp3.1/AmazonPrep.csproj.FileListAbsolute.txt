@@ -1,0 +1,13 @@
+C:\Users\Micha\source\repos\AmazonPrep\AmazonPrep\bin\Debug\netcoreapp3.1\AmazonPrep.exe
+C:\Users\Micha\source\repos\AmazonPrep\AmazonPrep\bin\Debug\netcoreapp3.1\AmazonPrep.deps.json
+C:\Users\Micha\source\repos\AmazonPrep\AmazonPrep\bin\Debug\netcoreapp3.1\AmazonPrep.runtimeconfig.json
+C:\Users\Micha\source\repos\AmazonPrep\AmazonPrep\bin\Debug\netcoreapp3.1\AmazonPrep.runtimeconfig.dev.json
+C:\Users\Micha\source\repos\AmazonPrep\AmazonPrep\bin\Debug\netcoreapp3.1\AmazonPrep.dll
+C:\Users\Micha\source\repos\AmazonPrep\AmazonPrep\bin\Debug\netcoreapp3.1\AmazonPrep.pdb
+C:\Users\Micha\source\repos\AmazonPrep\AmazonPrep\obj\Debug\netcoreapp3.1\AmazonPrep.csprojAssemblyReference.cache
+C:\Users\Micha\source\repos\AmazonPrep\AmazonPrep\obj\Debug\netcoreapp3.1\AmazonPrep.csproj.CoreCompileInputs.cache
+C:\Users\Micha\source\repos\AmazonPrep\AmazonPrep\obj\Debug\netcoreapp3.1\AmazonPrep.AssemblyInfoInputs.cache
+C:\Users\Micha\source\repos\AmazonPrep\AmazonPrep\obj\Debug\netcoreapp3.1\AmazonPrep.AssemblyInfo.cs
+C:\Users\Micha\source\repos\AmazonPrep\AmazonPrep\obj\Debug\netcoreapp3.1\AmazonPrep.dll
+C:\Users\Micha\source\repos\AmazonPrep\AmazonPrep\obj\Debug\netcoreapp3.1\AmazonPrep.pdb
+C:\Users\Micha\source\repos\AmazonPrep\AmazonPrep\obj\Debug\netcoreapp3.1\AmazonPrep.genruntimeconfig.cache
