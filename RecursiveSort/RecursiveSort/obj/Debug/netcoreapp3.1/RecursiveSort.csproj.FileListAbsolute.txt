@@ -1,0 +1,13 @@
+C:\Users\Micha\source\repos\RecursiveSort\RecursiveSort\bin\Debug\netcoreapp3.1\RecursiveSort.exe
+C:\Users\Micha\source\repos\RecursiveSort\RecursiveSort\bin\Debug\netcoreapp3.1\RecursiveSort.deps.json
+C:\Users\Micha\source\repos\RecursiveSort\RecursiveSort\bin\Debug\netcoreapp3.1\RecursiveSort.runtimeconfig.json
+C:\Users\Micha\source\repos\RecursiveSort\RecursiveSort\bin\Debug\netcoreapp3.1\RecursiveSort.runtimeconfig.dev.json
+C:\Users\Micha\source\repos\RecursiveSort\RecursiveSort\bin\Debug\netcoreapp3.1\RecursiveSort.dll
+C:\Users\Micha\source\repos\RecursiveSort\RecursiveSort\bin\Debug\netcoreapp3.1\RecursiveSort.pdb
+C:\Users\Micha\source\repos\RecursiveSort\RecursiveSort\obj\Debug\netcoreapp3.1\RecursiveSort.csprojAssemblyReference.cache
+C:\Users\Micha\source\repos\RecursiveSort\RecursiveSort\obj\Debug\netcoreapp3.1\RecursiveSort.csproj.CoreCompileInputs.cache
+C:\Users\Micha\source\repos\RecursiveSort\RecursiveSort\obj\Debug\netcoreapp3.1\RecursiveSort.AssemblyInfoInputs.cache
+C:\Users\Micha\source\repos\RecursiveSort\RecursiveSort\obj\Debug\netcoreapp3.1\RecursiveSort.AssemblyInfo.cs
+C:\Users\Micha\source\repos\RecursiveSort\RecursiveSort\obj\Debug\netcoreapp3.1\RecursiveSort.dll
+C:\Users\Micha\source\repos\RecursiveSort\RecursiveSort\obj\Debug\netcoreapp3.1\RecursiveSort.pdb
+C:\Users\Micha\source\repos\RecursiveSort\RecursiveSort\obj\Debug\netcoreapp3.1\RecursiveSort.genruntimeconfig.cache
